@@ -14,10 +14,10 @@ title: Table of Contents
 - [Command Pattern]()
 - 
 
-## Behavioral Pattern
+## Behavioral Patterns
 
 
-## test
+## Structural Patterns
 
 # Linear Programming
 
